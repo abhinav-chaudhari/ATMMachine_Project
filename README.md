@@ -1,1 +1,2 @@
-# ATMMachine_Project
+# ATMMachine_Project (Command-Line Project)
+Build using only java
